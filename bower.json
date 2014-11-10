@@ -1,0 +1,47 @@
+{
+  "name": "xcharts",
+  "version": "0.3.0",
+  "main": [
+    "./xcharts.js",
+    "./xcharts.css"
+  ],
+  "description": "A D3-based library for building custom charts and graphs.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vperron/bower-xcharts.git"
+  },
+  "homepage": "https://github.com/DiegeticShadow/bower-xcharts",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "d3",
+    "xcharts",
+    "charts",
+    "chart",
+    "graphs",
+    "graph",
+    "line",
+    "chart",
+    "bar",
+    "chart",
+    "pie",
+    "chart"
+  ],
+  "dependencies": {
+    "d3": "*"
+  },
+  "authors": [
+    "tenXer",
+    "Inc."
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
