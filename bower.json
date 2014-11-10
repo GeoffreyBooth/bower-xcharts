@@ -13,13 +13,16 @@
   "keywords": [
     "xcharts",
     "d3",
+    "d3.js",
+    "svg",
     "charts",
     "graphs",
     "chart",
     "graph",
     "line",
     "bar",
-    "pie"
+    "pie",
+    "tenXer"
   ],
   "authors": [
     "tenXer, Inc."
@@ -34,6 +37,7 @@
     "tests"
   ],
   "dependencies": {
+    "lodash": "*",
     "d3": "*"
   }
 }
